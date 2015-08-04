@@ -18,7 +18,7 @@ To update the plugin to the latest version, you can run `:BundleUpdate`.
 How to use
 ----------
 
-first you need to install a node module `caniuse-cli`
+require `caniuse-cmd` install globally
 
 
       npm install -g caniuse-cmd
